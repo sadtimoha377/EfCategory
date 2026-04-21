@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mcalchemist\\source\\repos\\EfCategory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E8EE9F-1253-45C4-8B87-A0599AD38E59}|EfCategory\\EfCategory.csproj|c:\\users\\mcalchemist\\source\\repos\\efcategory\\efcategory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E8EE9F-1253-45C4-8B87-A0599AD38E59}|EfCategory\\EfCategory.csproj|solutionrelative:efcategory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E8EE9F-1253-45C4-8B87-A0599AD38E59}|EfCategory\\EfCategory.csproj|c:\\users\\mcalchemist\\source\\repos\\efcategory\\efcategory\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E8EE9F-1253-45C4-8B87-A0599AD38E59}|EfCategory\\EfCategory.csproj|solutionrelative:efcategory\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E8EE9F-1253-45C4-8B87-A0599AD38E59}|EfCategory\\EfCategory.csproj|c:\\users\\mcalchemist\\source\\repos\\efcategory\\efcategory\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E8EE9F-1253-45C4-8B87-A0599AD38E59}|EfCategory\\EfCategory.csproj|solutionrelative:efcategory\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E8EE9F-1253-45C4-8B87-A0599AD38E59}|EfCategory\\EfCategory.csproj|c:\\users\\mcalchemist\\source\\repos\\efcategory\\efcategory\\efcategory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D4E8EE9F-1253-45C4-8B87-A0599AD38E59}|EfCategory\\EfCategory.csproj|solutionrelative:efcategory\\efcategory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EfCategory",
+              "DocumentMoniker": "C:\\Users\\mcalchemist\\source\\repos\\EfCategory\\EfCategory\\EfCategory.csproj",
+              "RelativeDocumentMoniker": "EfCategory\\EfCategory.csproj",
+              "ToolTip": "C:\\Users\\mcalchemist\\source\\repos\\EfCategory\\EfCategory\\EfCategory.csproj",
+              "RelativeToolTip": "EfCategory\\EfCategory.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-21T13:57:17.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mcalchemist\\source\\repos\\EfCategory\\EfCategory\\Program.cs",
+              "RelativeDocumentMoniker": "EfCategory\\Program.cs",
+              "ToolTip": "C:\\Users\\mcalchemist\\source\\repos\\EfCategory\\EfCategory\\Program.cs",
+              "RelativeToolTip": "EfCategory\\Program.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T13:52:34.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mcalchemist\\source\\repos\\EfCategory\\EfCategory\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EfCategory\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\mcalchemist\\source\\repos\\EfCategory\\EfCategory\\AppDbContext.cs",
+              "RelativeToolTip": "EfCategory\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T13:48:05.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\mcalchemist\\source\\repos\\EfCategory\\EfCategory\\Category.cs",
+              "RelativeDocumentMoniker": "EfCategory\\Category.cs",
+              "ToolTip": "C:\\Users\\mcalchemist\\source\\repos\\EfCategory\\EfCategory\\Category.cs",
+              "RelativeToolTip": "EfCategory\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T13:47:52.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
